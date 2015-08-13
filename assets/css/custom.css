@@ -1,0 +1,34 @@
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+
+body {
+	background: #000;
+	padding-top: 150px;
+	font-family: 'Varela Round', sans-serif;
+	color: #fff;
+}
+
+h1 {
+	font-size: 6em;
+}
+
+h2 {
+	font-size: 2.5em;
+}
+
+h3 {
+	font-size: 1.7em;
+}
+
+.navbar-transparent {
+	background-color: transparent;
+	background: transparent;
+	border-color: transparent;
+}
+
+.buttonBar {
+	display:none;
+}
+
+.player {
+	font-size: 1px;
+}
